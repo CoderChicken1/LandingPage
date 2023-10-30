@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/landing_page_micron/static/css/main.5c111138.css",
+    "main.js": "/landing_page_micron/static/js/main.2fa0a695.js",
+    "static/media/introduce.png": "/landing_page_micron/static/media/introduce.de6403c7db1187b8e185.png",
+    "static/media/p_4.png": "/landing_page_micron/static/media/p_4.6efdf8ac3a514e9b0650.png",
+    "static/media/p_5.png": "/landing_page_micron/static/media/p_5.fa474c1f7845b845522b.png",
+    "static/media/p_3.png": "/landing_page_micron/static/media/p_3.319c91417650d6653cb5.png",
+    "static/media/p_2.png": "/landing_page_micron/static/media/p_2.129e363a0a061cd599e2.png",
+    "static/media/p_1.png": "/landing_page_micron/static/media/p_1.575357040ec5bc9b0163.png",
+    "static/media/coming-bg.jpg": "/landing_page_micron/static/media/coming-bg.aa73ce3b82bff5fdadc1.jpg",
+    "static/media/about-us.png": "/landing_page_micron/static/media/about-us.c160871ea06af5d0fdc0.png",
+    "static/media/p_6.png": "/landing_page_micron/static/media/p_6.a181bf863ac62dad2464.png",
+    "static/media/pb_2.jpg": "/landing_page_micron/static/media/pb_2.41a0285a959277ce2585.jpg",
+    "static/media/pb_3.jpg": "/landing_page_micron/static/media/pb_3.f07feba604d2aa52c503.jpg",
+    "static/media/pb_1.jpg": "/landing_page_micron/static/media/pb_1.1ba20dce0f0e89714146.jpg",
+    "static/media/pb_4.jpg": "/landing_page_micron/static/media/pb_4.bdaa3f64be25cf83086f.jpg",
+    "static/media/pb_5.jpg": "/landing_page_micron/static/media/pb_5.9cbb1607a68dcaca831a.jpg",
+    "static/media/header-bg.png": "/landing_page_micron/static/media/header-bg.e81cceb6ae0e07201781.png",
+    "static/media/footer_bg.png": "/landing_page_micron/static/media/footer_bg.a611e911ef5e21779d79.png",
+    "static/media/pb_6.jpg": "/landing_page_micron/static/media/pb_6.2cf01928e3b9837e9dba.jpg",
+    "static/media/icon-insta.png": "/landing_page_micron/static/media/icon-insta.662541a38b7c10db619a.png",
+    "index.html": "/landing_page_micron/index.html",
+    "main.5c111138.css.map": "/landing_page_micron/static/css/main.5c111138.css.map",
+    "main.2fa0a695.js.map": "/landing_page_micron/static/js/main.2fa0a695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c111138.css",
+    "static/js/main.2fa0a695.js"
+  ]
+}
